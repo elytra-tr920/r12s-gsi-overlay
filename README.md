@@ -1,24 +1,22 @@
 # News
-The overlay has been merged into the main Trebledroid repo! Thank you all so much!
+_Nothing right now_
 
 # About this repository
-This is a Magisk/KernelSU module that is made to test the GSI overlay for the Samsung Galaxy A54 5G, as it's being developed and tested.
+This is a Magisk/KernelSU module that is made to test the GSI overlay for the Samsung Galaxy S24 FE, as it's being developed and tested.
 
 # Testing
- **Testers: Pokey8680 (Me)**
-- Model Name: SM-A546B
-- Firmware Binary: A546BXXS9CXH7
+ **Testers: gsilover-tr (Me)**
+- Model Name: SM-S721B
+- Firmware Binary: S721BXXS6BYF5
 
 GSIs used:
 
-## Android 14
-  - Trebledroid CI AOSP,
-  - Ponces' AOSP,
-  -  Andy Yan's LineageOS 21
-  -  mytja's EvolutionX
-  -  FlexUI 
-## Android 15
-  - Ponces' AOSP 
+### Android 15
+_No Test Right Now_
+
+### Android 16
+_No Test Right Now_
+    
 # Installation
 - Download the module from the releases page.
 - You need to be rooted with Magisk or KernelSU.
@@ -28,15 +26,10 @@ GSIs used:
 - Enjoy!
 
 # Bugs/Issues
-- Auto Brightness does not appear on most GSIs, but does work if the setting is exposed.
-
-- The status bar is not bottom aligned on mytja's EvolutionX
-
-- The status bar is not bottom aligned on FlexUI Android 14
-
-- FOD still does not work.
-
-- Vibration is still buggy, it will only do a small click instead of prolonged vibration 
+ _No Test Right Now_
 
 # Source
 To check the source code of the overlay and possibly suggest changes, you can find it at my vendor_hardware_overlay repository, here on GitHub.
+
+# Credits
+- For the module and the repository
