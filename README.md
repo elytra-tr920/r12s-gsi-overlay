@@ -32,4 +32,4 @@ _No Test Right Now_
 To check the source code of the overlay and possibly suggest changes, you can find it at my vendor_hardware_overlay repository, here on GitHub.
 
 # Credits
-- For the module and the repository
+- @Pokey8680 For the module and the repository
