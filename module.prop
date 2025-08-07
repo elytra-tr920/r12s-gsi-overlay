@@ -1,6 +1,6 @@
-id=a54x-gsi-overlay
-name=Galaxy A54 GSI Overlay
+id=r12s-gsi-overlay
+name=Galaxy S24 FE GSI Overlay
 version=v1.0.0
 versionCode=6
-author=Pokey8680
-description=Add more hardware features to GSIs on A54
+author=Pokey8680 & gsilover-tr
+description=Add more hardware features to GSIs on S24 FE
